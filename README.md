@@ -4,7 +4,7 @@
 
 <br>
 
-# 🙋 2024.1 - Módulo 1: Hiperconectividade para cidades inteligentes - Turma 02 - PRODAM
+# 🙋 2024.1 - Módulo 9: Hiperconectividade para cidades inteligentes - Turma 02 - PRODAM
 
 
 ## 🎯 O objetivo:
